@@ -177,8 +177,8 @@ Content-Type: application/json
 
 1. **Clone the repository**
    ```sh
-   git clone <your-repo-url>
-   cd <project-folder>
+   git clone https://github.com/rishabhk02/Property-Listing-App.git
+   cd Property-Listing-App
    ```
 
 2. **Copy environment variables**
